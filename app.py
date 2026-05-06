@@ -1,8 +1,3 @@
-"""
-Phase 6: Gradio demo app
-Run: python app.py
-"""
-
 import torch
 import gradio as gr
 from transformers import pipeline
